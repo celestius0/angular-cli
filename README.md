@@ -22,7 +22,7 @@
 </p>
 
 <p style="text-align: center">
-  <a href="https://cli.angular.io"><strong>cli.angular.io</strong></a>
+  <a href="https://angular.dev/tools/cli"><strong>angular.dev/tools/cli</strong></a>
   <br>
 </p>
 
@@ -190,7 +190,7 @@ This is a monorepo which contains many tools and packages:
 [changelog]: CHANGELOG.md
 [documentation]: https://angular.io/docs
 [angularmaterial]: https://material.angular.io/
-[cli]: https://cli.angular.io/
+[cli]: https://angular.dev/tools/cli/
 [aio]: https://angular.io/
 [workspaceconfig]: https://angular.io/guide/workspace-config
 [schematics]: https://angular.io/guide/schematics
