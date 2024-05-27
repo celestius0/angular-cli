@@ -1,6 +1,6 @@
 # `@angular/pwa`
 
-This is a [schematic](https://angular.io/guide/schematics) for adding
+This is a [schematic](https://angular.dev/tools/cli/schematics) for adding
 [Progressive Web App](https://web.dev/progressive-web-apps/) support to an Angular project. Run the
 schematic with the [Angular CLI](https://angular.dev/tools/cli):
 
