@@ -192,7 +192,7 @@ This is a monorepo which contains many tools and packages:
 [angularmaterial]: https://material.angular.io/
 [cli]: https://angular.dev/tools/cli/
 [aio]: https://angular.io/
-[workspaceconfig]: https://angular.io/guide/workspace-config
+[workspaceconfig]: https://angular.dev/reference/configs/workspace-config
 [schematics]: https://angular.io/guide/schematics
 [filestructure]: https://angular.io/guide/file-structure
 [node.js]: https://nodejs.org/
