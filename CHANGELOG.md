@@ -4013,7 +4013,7 @@ Charles Lyding and Doug Parker
 
 ### @schematics/angular
 
-- `classlist.js` and `web-animations-js` are removed from application polyfills and uninstalled from the package. These were only needed for compatibility with Internet Explorer, which is no longer needed now that Angular only supports evergreen browsers. See: https://angular.io/guide/browser-support.
+- `classlist.js` and `web-animations-js` are removed from application polyfills and uninstalled from the package. These were only needed for compatibility with Internet Explorer, which is no longer needed now that Angular only supports evergreen browsers. See: https://angular.dev/reference/versions#browser-support.
 
 Add the following to the polyfills file for an app to re-add these packages:
 
