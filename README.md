@@ -188,7 +188,7 @@ This is a monorepo which contains many tools and packages:
 [developer]: docs/DEVELOPER.md
 [quickstart]: https://angular.dev/tutorials/learn-angular
 [changelog]: CHANGELOG.md
-[documentation]: https://angular.io/docs
+[documentation]: https://angular.dev/overview
 [angularmaterial]: https://material.angular.io/
 [cli]: https://angular.dev/tools/cli/
 [aio]: https://angular.io/
