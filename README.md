@@ -186,7 +186,7 @@ This is a monorepo which contains many tools and packages:
 
 [contributing]: CONTRIBUTING.md
 [developer]: docs/DEVELOPER.md
-[quickstart]: https://angular.io/start
+[quickstart]: https://angular.dev/tutorials/learn-angular
 [changelog]: CHANGELOG.md
 [documentation]: https://angular.io/docs
 [angularmaterial]: https://material.angular.io/
