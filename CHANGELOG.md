@@ -10927,7 +10927,7 @@ The following options which were used to support the above syntax were removed w
 </h3>
 Critical CSS inlining is now enabled by default. If you wish to turn this off set `inlineCritical` to `false`.
 
-See: https://angular.io/guide/workspace-config#optimization-configuration
+See: https://angular.dev/reference/configs/workspace-config#optimization-configuration
 
 <h3>
     @angular-devkit/build-angular: drop support for zone.js 0.10 (<a href="https://github.com/angular/angular-cli/commit/f309516bcdcee711fc5693b5f14d6fef1cfa5dba">f309516</a>)
@@ -13523,7 +13523,7 @@ Alan Agius, Charles Lyding, Renovate Bot, Joey Perrott
 </h3>
 Critical CSS inlining is now enabled by default. If you wish to turn this off set `inlineCritical` to `false`.
 
-See: https://angular.io/guide/workspace-config#optimization-configuration
+See: https://angular.dev/reference/configs/workspace-config#optimization-configuration
 
 ---
 
