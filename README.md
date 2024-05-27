@@ -191,10 +191,10 @@ This is a monorepo which contains many tools and packages:
 [documentation]: https://angular.dev/overview
 [angularmaterial]: https://material.angular.io/
 [cli]: https://angular.dev/tools/cli/
-[aio]: https://angular.io/
+[adev]: https://angular.dev/
 [workspaceconfig]: https://angular.dev/reference/configs/workspace-config
 [schematics]: https://angular.dev/tools/cli/schematics
-[filestructure]: https://angular.io/guide/file-structure
+[filestructure]: https://angular.dev/reference/configs/file-structure
 [node.js]: https://nodejs.org/
 [npm]: https://www.npmjs.com/get-npm
 [codeofconduct]: https://github.com/angular/angular/blob/main/CODE_OF_CONDUCT.md

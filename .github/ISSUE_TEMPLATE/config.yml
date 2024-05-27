@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Docs or angular.io issue report
+  - name: Docs or angular.devhttps://angular.io/devtools/ issue report
     url: https://github.com/angular/angular/issues/new
-    about: Report an issue in Angular's documentation or angular.io application
+    about: Report an issue in Angular's documentation or angular.dev application
   - name: Security issue disclosure
     url: https://angular.dev/best-practices/security#report-issues
     about: Report a security issue in Angular Framework, Material, or CLI

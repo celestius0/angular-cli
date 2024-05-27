@@ -19,5 +19,5 @@ Executing the command mentioned above will perform the following actions:
 1. Installs icon files to support the installed Progressive Web App (PWA).
 1. Creates the service worker configuration file called `ngsw-config.json`, specifying caching behaviors and other settings.
 
-See [Getting started with service workers](https://angular.io/guide/service-worker-getting-started)
+See [Getting started with service workers](https://angular.dev/ecosystem/service-workers/getting-started)
 for more information.
